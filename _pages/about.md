@@ -49,7 +49,7 @@ Big Data Analytics, Enterprise Software, Education Technology, Video Games Techn
 
 # I'm Reading
 
-https://goodreads.com/enlik
+[Goodreads Enlik](https://goodreads.com/enlik)
 
 
 
