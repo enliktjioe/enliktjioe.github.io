@@ -27,8 +27,8 @@ I'm meeting like-minded people via:
 
 I'll doing volunteering with:
 
-- [Slush 2023](https://slush23.com/volunteers/) | 30 Nov -1 Dec 2023, Helsinki, Finland - *Slush is a non-profit and the world’s largest gathering of VC — delivering actionable company-building advice and bringing together the who’s who in startups.*
-- [Tallinn Black Night Film Festival 2023](https://poff.ee/en/) | 3-19 November 2023, Tallinn, Estonia - *one of the biggest film festivals in Northern Europe and the busiest regional industry platforms.*
+- [Tallinn Black Night Film Festival 2023](https://poff.ee/en/) 3-19 November 2023, Tallinn, Estonia - *one of the biggest film festivals in Northern Europe and the busiest regional industry platforms.*
+- [Slush 2023](https://slush23.com/volunteers/) 30 Nov -1 Dec 2023, Helsinki, Finland - *Slush is a non-profit and the world’s largest gathering of VC — delivering actionable company-building advice and bringing together the who’s who in startups.*
 
 # I'm interested in
 
@@ -53,8 +53,8 @@ Climate / Green Technologies, Sustainability, Traveling, Video Games, Entreprene
 
 # I'm Playing
 
-- [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/)
-- [Monster Hunter Now](https://monsterhunternow.com/en)
+- [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/) (Nintendo Switch)
+- [Monster Hunter Now](https://monsterhunternow.com/en) (iOS / Android)
 
 # Seek me out
 
