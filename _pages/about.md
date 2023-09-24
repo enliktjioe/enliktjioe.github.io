@@ -36,15 +36,16 @@ Climate / Green Technologies, Sustainability, Traveling, Video Games, Entreprene
 
 # I've been involved with
 
-- [Data Engineer Intern with Positium](https://www.positium.com/research/positium-data-mediator)                    
-- [PPI Estonia Homepage](http://estonia.ppi.id/)                    
-- [AIESEC in Estonia (Tartu)](https://aiesec.ee/)        
+- [Mindvalley University 2022 and 2023 Support Team](https://www.mindvalley.com/u)
+- [Tartu 2024 Culture Capital Volunteer Team](https://tartu2024.ee/volunteers)
+- [PPI Estonia Homepage Project](http://estonia.ppi.id/)
 - [Some Projects with Touchten Games](https://enlikstefanus.wixsite.com/enliktjioe)
 
 # I've Written
 
-- [Short Reflection —My Exodus 90 Journey](https://enliktjioe.medium.com/short-reflection-my-exodus-90-journey-18ce3a840abe) - *90-day spiritual exercise for men based on three pillars: prayer, asceticism, and fraternity*
 - [WYD Lisbon 2023 — Sukacita Dalam Kebersamaan](https://enliktjioe.medium.com/wyd-lisbon-2023-sukacita-dalam-kebersamaan-b3e4fb0bc3ed) - *My journaling and reflection based on my experiences through World Youth Day Lisbon 2023, written in Indonesian language*
+- [Quick Reflection — My First Camino de Santiago](https://enliktjioe.medium.com/quick-reflection-my-first-camino-de-santiago-3587e8978109) - *My first 5-days camino experience in Spain, walking as a pilgrim from Sarria to Santiago de Compostela in Spain, in total around 110km*
+- [Short Reflection —My Exodus 90 Journey](https://enliktjioe.medium.com/short-reflection-my-exodus-90-journey-18ce3a840abe) - *90-day spiritual exercise for men based on three pillars: prayer, asceticism, and fraternity*
 - [My Google Story](https://enliktjioe.wordpress.com/2017/05/26/my-google-story/) - *My personal story about my experiences working in Google Sydney (Australia) as a hospitality worker in 2016-2017*
 
 # I'm Reading
