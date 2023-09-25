@@ -18,6 +18,7 @@ I'm currently learning:
 - [WILDFIT 90](https://getwildfit.com/get-started/) - *90-days transformative program for sustainable health and lifestyle transformation*
 - [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field*
 - [Alpha course](https://www.focuschurch.ee/alpha) - *explore life, faith, and meaning*
+- [The Remarkable Bible](https://remarkablebible.com/) - *personal digital study bible, digital journal and daily guide to reading through the Old and New Testaments in one year*
 
 I'm meeting like-minded people via:
 
@@ -41,18 +42,18 @@ Climate / Green Technologies, Sustainability, Traveling, Video Games, Entreprene
 - [PPI Estonia Homepage Project](http://estonia.ppi.id/)
 - [Some Projects with Touchten Games](https://enlikstefanus.wixsite.com/enliktjioe)
 
-# I've Written
+# I've written
 
 - [WYD Lisbon 2023 — Sukacita Dalam Kebersamaan](https://enliktjioe.medium.com/wyd-lisbon-2023-sukacita-dalam-kebersamaan-b3e4fb0bc3ed) - *My journaling and reflection based on my experiences through World Youth Day Lisbon 2023, written in Indonesian language*
 - [Quick Reflection — My First Camino de Santiago](https://enliktjioe.medium.com/quick-reflection-my-first-camino-de-santiago-3587e8978109) - *My first 5-days camino experience in Spain, walking as a pilgrim from Sarria to Santiago de Compostela in Spain, in total around 110km*
 - [Short Reflection —My Exodus 90 Journey](https://enliktjioe.medium.com/short-reflection-my-exodus-90-journey-18ce3a840abe) - *90-day spiritual exercise for men based on three pillars: prayer, asceticism, and fraternity*
 - [My Google Story](https://enliktjioe.wordpress.com/2017/05/26/my-google-story/) - *My personal story about my experiences working in Google Sydney (Australia) as a hospitality worker in 2016-2017*
 
-# I'm Reading
+# I'm reading
 
 [Goodreads Enlik](https://goodreads.com/enlik)
 
-# I'm Playing
+# I'm playing
 
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/) (Nintendo Switch)
 - [Monster Hunter Now](https://monsterhunternow.com/en) (iOS / Android)
