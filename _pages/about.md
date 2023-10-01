@@ -13,23 +13,63 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 # What I'm up to
 
-I'm currently learning:
+## Health and Fitness
 
 - [WILDFIT 90](https://getwildfit.com/get-started/) - *90-days transformative program for sustainable health and lifestyle transformation*
+
+## Intellectual Life (AI and Data Science)
+
 - [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field*
+- [DeFi Bootcamp](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - *Empowering Talent for Leadership in the Decentralized Finance Space*
+- [Fundamental of Data Engineering](https://omdena.com/course/fundamentals-of-data-engineering-principles-and-techniques-for-building-scalable-data-pipelines/) via [Omdena Academy](https://omdena.com/omdena-academy/) - *Learning Principles and Techniques for Building Scalable Data Pipelines*
+
+## Emotional Life
+
+- Journaling my daily activities using [segment intending](https://www.effortlesssuperhuman.com.au/the-law-of-segment-intending/) method via my [Remarkable 2 Tablet](https://remarkable.com/store/remarkable-2)
+
+## Character
+
+- Reading [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.goodreads.com/author/show/9761990.William_MacAskill) book by [William MacAskill](https://www.williammacaskill.com/)
+- Reading [Designing Your Life - How to Build a Well-Lived Joyful Life](https://www.goodreads.com/book/show/61130244-designing-your-life---how-to-build-a-well-lived-joyful-life) book by [Bill Burnett and Dave Evans](https://designingyour.life/about/)
+
+## Spiritual Life
+
 - [Alpha course](https://www.focuschurch.ee/alpha) - *explore life, faith, and meaning*
 - [The Remarkable Bible](https://remarkablebible.com/) - *personal digital study bible, digital journal and daily guide to reading through the Old and New Testaments in one year*
+- [A Yogi's Guide to Joy](https://www.mindvalley.com/sadhguru) - *learning more about “inner engineering” myself so I can start living life in a playful manner.*
 
-I'm meeting like-minded people via:
+## Social Life
 
+- [Couchsurfing](https://www.couchsurfing.com/people/enlik) - *I'm hosting like-minded guests in Tallinn, Estonia to share life perspective and experiences while having fun exploring new places*
 - [Lunchclub](https://lunchclub.com/) - *AI superconnector that makes introductions for 1:1 video meetings to advance your career.*
 - [Mindvalley Estonia](https://meetup.mindvalley.com/estonia/) - *Local Mindvalley community for engaging conversations, meaningful connections, and leave you feeling empowered and inspired*
-- [Couchsurfing](https://www.couchsurfing.com/people/enlik) - *I'm hosting like-minded guests in Tallinn, Estonia to share life perspective and experiences while having fun exploring new places*
 
-I'll doing volunteering with:
+## Financial Life
 
-- [Tallinn Black Night Film Festival 2023](https://poff.ee/en/) 3-19 November 2023, Tallinn, Estonia - *one of the biggest film festivals in Northern Europe and the busiest regional industry platforms.*
-- [Slush 2023](https://slush23.com/volunteers/) 30 Nov -1 Dec 2023, Helsinki, Finland - *Slush is a non-profit and the world’s largest gathering of VC — delivering actionable company-building advice and bringing together the who’s who in startups.*
+- Managing my money budgeting and expense via [Money Lover](https://moneylover.me/)
+- EUR account - automated stock market investment plan via [Trading212](https://www.trading212.com/)
+- IDR account - automated index fund investment plan via [Bibit](https://bibit.id/)
+- AUD account - automated index fund investment plan via [Spaceship Voyager](https://www.spaceship.com.au/)
+
+## Career
+
+- Database Developer at [Playtech Estonia](https://playtech.ee/) - *Supporting the existing database system and evaluating/testing new technologies*
+- Becoming a mentor for colleague
+
+## Quality of life
+
+- Volunteering
+  - [Tallinn Black Night Film Festival 2023](https://poff.ee/en/) 3-19 November 2023, Tallinn, Estonia - *one of the biggest film festivals in Northern Europe and the busiest regional industry platforms.*
+  - [Slush 2023](https://slush23.com/volunteers/) 30 Nov -1 Dec 2023, Helsinki, Finland - *Slush is a non-profit and the world’s largest gathering of VC — delivering actionable company-building advice and bringing together the who’s who in startups.*
+
+- Traveling with purpose
+  - [Oslo Innovation Week](https://oiw.no/) 25-28 Sep 2023, Oslo, Norway - *learning more about how Norway creating a better future via their showcases of the ideas, innovations, and individuals that push boundaries*
+  - [EUSBSR Annual Forum 2023](https://events.eusbsr.eu/annualforum2023) 4-5 Oct 2023, Riga, Latvia - *finding out how countries from Baltic Sea Region develop their renewable energy sources and improving energy efficiency*
+
+
+## Life Vision
+
+- To utilize my passion for technology and computer science to benefit society at large, while serving as an example of success that will shape the future of our society
 
 # I'm interested in
 
