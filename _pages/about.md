@@ -71,6 +71,8 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 - To utilize my passion for technology and computer science to benefit society at large, while serving as an example of success that will shape the future of our society
 
+
+
 # I'm interested in
 
 Climate / Green Technologies, Sustainability, Traveling, Video Games, Entrepreneurship, Social Impact, Fitness, Education, Spirituality, Mindfulness
