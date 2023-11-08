@@ -60,8 +60,6 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 - Volunteering
   - [Tallinn Black Night Film Festival 2023](https://poff.ee/en/) 3-19 November 2023, Tallinn, Estonia - *one of the biggest film festivals in Northern Europe and the busiest regional industry platforms.*
-  - [Slush 2023](https://slush23.com/volunteers/) 30 Nov -1 Dec 2023, Helsinki, Finland - *Slush is a non-profit and the world’s largest gathering of VC — delivering actionable company-building advice and bringing together the who’s who in startups.*
-
 - Traveling with purpose
   - [Oslo Innovation Week](https://oiw.no/) 25-28 Sep 2023, Oslo, Norway - *learning more about how Norway creating a better future via their showcases of the ideas, innovations, and individuals that push boundaries*
   - [EUSBSR Annual Forum 2023](https://events.eusbsr.eu/annualforum2023) 4-5 Oct 2023, Riga, Latvia - *finding out how countries from Baltic Sea Region develop their renewable energy sources and improving energy efficiency*
@@ -71,7 +69,13 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 - To utilize my passion for technology and computer science to benefit society at large, while serving as an example of success that will shape the future of our society
 
+# I've written
 
+- [Berlin — Kota Hijau Penuh Sejarah](https://enliktjioe.medium.com/berlin-kota-hijau-penuh-sejarah-23d608a7dd83) - *My traveling story in Berlin, written in Indonesian language* 
+- [WYD Lisbon 2023 — Sukacita Dalam Kebersamaan](https://enliktjioe.medium.com/wyd-lisbon-2023-sukacita-dalam-kebersamaan-b3e4fb0bc3ed) - *My journaling and reflection based on my experiences through World Youth Day Lisbon 2023, written in Indonesian language*
+- [Quick Reflection — My First Camino de Santiago](https://enliktjioe.medium.com/quick-reflection-my-first-camino-de-santiago-3587e8978109) - *My first 5-days camino experience in Spain, walking as a pilgrim from Sarria to Santiago de Compostela in Spain, in total around 110km*
+- [Short Reflection —My Exodus 90 Journey](https://enliktjioe.medium.com/short-reflection-my-exodus-90-journey-18ce3a840abe) - *90-day spiritual exercise for men based on three pillars: prayer, asceticism, and fraternity*
+- [My Google Story](https://enliktjioe.wordpress.com/2017/05/26/my-google-story/) - *My personal story about my experiences working in Google Sydney (Australia) as a hospitality worker in 2016-2017*
 
 # I'm interested in
 
@@ -84,13 +88,6 @@ Climate / Green Technologies, Sustainability, Traveling, Video Games, Entreprene
 - [PPI Estonia Homepage Project](http://estonia.ppi.id/)
 - [Some Projects with Touchten Games](https://enlikstefanus.wixsite.com/enliktjioe)
 
-# I've written
-
-- [WYD Lisbon 2023 — Sukacita Dalam Kebersamaan](https://enliktjioe.medium.com/wyd-lisbon-2023-sukacita-dalam-kebersamaan-b3e4fb0bc3ed) - *My journaling and reflection based on my experiences through World Youth Day Lisbon 2023, written in Indonesian language*
-- [Quick Reflection — My First Camino de Santiago](https://enliktjioe.medium.com/quick-reflection-my-first-camino-de-santiago-3587e8978109) - *My first 5-days camino experience in Spain, walking as a pilgrim from Sarria to Santiago de Compostela in Spain, in total around 110km*
-- [Short Reflection —My Exodus 90 Journey](https://enliktjioe.medium.com/short-reflection-my-exodus-90-journey-18ce3a840abe) - *90-day spiritual exercise for men based on three pillars: prayer, asceticism, and fraternity*
-- [My Google Story](https://enliktjioe.wordpress.com/2017/05/26/my-google-story/) - *My personal story about my experiences working in Google Sydney (Australia) as a hospitality worker in 2016-2017*
-
 # I'm reading
 
 [Goodreads Enlik](https://goodreads.com/enlik)
@@ -98,7 +95,9 @@ Climate / Green Technologies, Sustainability, Traveling, Video Games, Entreprene
 # I'm playing
 
 - [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/) (Nintendo Switch)
-- [Monster Hunter Now](https://monsterhunternow.com/en) (iOS / Android)
+- [Resident Evil 4 Remake](https://www.residentevil.com/re4/) (PS4)
+- [Monster Hunter Now](https://monsterhunternow.com/en) (iOS)
+- [Souls](https://apps.apple.com/au/app/souls/id6448900613) (iOS)
 
 # Seek me out
 
