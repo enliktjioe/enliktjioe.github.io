@@ -1,20 +1,20 @@
 ---
 layout: archive
 title: "2023 Year Review"
+date: 2023-12-30
 permalink: /2023-year-review/
 author_profile: true
 ---
 
 {% include base_path %}
 
-test 2023 reviews
+This page is my photo essay for 2023 to express my gratitude. It's been a roller-coaster year with many ups and downs happened in my life.
 
-# January 2023
+# Reunion with family and friends in Indonesia
 
-- Links: [anchor.fm](https://anchor.fm/enlik), [noice.id](https://open.noice.id/catalog/9ac93624-fc64-4560-ab0f-eb3546c5bb2b), [Spotify](https://open.spotify.com/show/0YhurGkzyOZ8lVD9QGvXk1), [Apple Podcast](https://podcasts.apple.com/podcast/id1513036446), [Google Podcast](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWM4Y2U1Yy9wb2RjYXN0L3Jzcw==)
-- #30HariBersuara - *30-days challenge to make podcast episode every day during month of December from [The Podcasters Indonesia](https://www.instagram.com/thepodcasters.id) community with the spirit of sharing our stories for the good*
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-# February 2023
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
-- Bla bla bla
+
 
