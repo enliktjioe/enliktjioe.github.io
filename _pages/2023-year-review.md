@@ -6,10 +6,11 @@ permalink: /2023-year-review/
 author_profile: true
 carousels:
   - images: 
-    - image: /images/slider/500x300.png
-    - image: /images/slider/500x300.png
-    - image: /images/slider/500x300.png
-    - image: /images/slider/500x300.png
+    - image: /images/slider/2023/indonesia/2023_Indonesia_Friends_1.jpg
+    - image: /images/slider/2023/indonesia/2023_Indonesia_Friends_2.jpg
+    - image: /images/slider/2023/indonesia/2023_Indonesia_Friends_3.jpg
+    - image: /images/slider/2023/indonesia/2023_Indonesia_Friends_4.jpg
+    - image: /images/slider/2023/indonesia/2023_Indonesia_Friends_5.jpg
   - images: 
     - image: /images/slider/500x300.png
     - image: /images/slider/500x300.png
