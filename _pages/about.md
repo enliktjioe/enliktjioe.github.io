@@ -13,24 +13,15 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 # What I'm up to
 
-## December 2023 - Enlik  Tjioe Podcast
-
-- Links: [anchor.fm](https://anchor.fm/enlik), [noice.id](https://open.noice.id/catalog/9ac93624-fc64-4560-ab0f-eb3546c5bb2b), [Spotify](https://open.spotify.com/show/0YhurGkzyOZ8lVD9QGvXk1), [Apple Podcast](https://podcasts.apple.com/podcast/id1513036446), [Google Podcast](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWM4Y2U1Yy9wb2RjYXN0L3Jzcw==)
-- #30HariBersuara - *30-days challenge to make podcast episode every day during month of December from [The Podcasters Indonesia](https://www.instagram.com/thepodcasters.id) community with the spirit of sharing our stories for the good*
-
 ## Health and Fitness
 
 - [WILDFIT 90](https://getwildfit.com/get-started/) - *90-days transformative program for sustainable health and lifestyle transformation*
 
 ## Intellectual Life (AI and Data Science)
 
-- [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field*
+- [The Introductory Effective Altruism (EA) Program](https://www.effectivealtruism.org/virtual-programs/introductory-program) - *Learn the key ideas of EA with a small group of like-minded people.*
 - [DeFi Bootcamp](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - *Empowering Talent for Leadership in the Decentralized Finance Space*
-- [Fundamental of Data Engineering](https://omdena.com/course/fundamentals-of-data-engineering-principles-and-techniques-for-building-scalable-data-pipelines/) via [Omdena Academy](https://omdena.com/omdena-academy/) - *Learning Principles and Techniques for Building Scalable Data Pipelines*
-
-## Emotional Life
-
-- Journaling my daily activities using [segment intending](https://www.effortlesssuperhuman.com.au/the-law-of-segment-intending/) method via my [Remarkable 2 Tablet](https://remarkable.com/store/remarkable-2)
+- [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field*
 
 ## Character
 
@@ -40,12 +31,12 @@ A lifelong learner who wants to improve the quality of people's lives using data
 ## Spiritual Life
 
 - [Alpha course](https://www.focuschurch.ee/alpha) - *explore life, faith, and meaning*
-- [The Remarkable Bible](https://remarkablebible.com/) - *personal digital study bible, digital journal and daily guide to reading through the Old and New Testaments in one year*
-- [A Yogi's Guide to Joy](https://www.mindvalley.com/sadhguru) - *learning more about “inner engineering” myself so I can start living life in a playful manner.*
+- [The Remarkable Bible](https://remarkablebible.com/) - personal digital study bible, digital journal and daily guide to reading through the Old and New Testaments in one year
+- [Follow](https://www.goodreads.com/book/show/30297580-follow) - develop seven essential attributes of being disciple and sharing my journey with a spiritual coach, to learn how to become a fully devoted follower of Jesus
 
 ## Social Life
 
-- [Couchsurfing](https://www.couchsurfing.com/people/enlik) - *I'm hosting like-minded guests in Tallinn, Estonia to share life perspective and experiences while having fun exploring new places*
+- [Couchsurfing](https://www.couchsurfing.com/people/enlik) - *I'm hosting guests from various backround in Tallinn, Estonia and meet locals and expats outside of Estonia, to share life perspective and experiences while having fun exploring new places*
 - [Lunchclub](https://lunchclub.com/) - *AI superconnector that makes introductions for 1:1 video meetings to advance your career.*
 - [Mindvalley Estonia](https://meetup.mindvalley.com/estonia/) - *Local Mindvalley community for engaging conversations, meaningful connections, and leave you feeling empowered and inspired*
 
@@ -96,11 +87,6 @@ Climate / Green Technologies, Sustainability, Traveling, Video Games, Entreprene
 # I'm reading
 
 [Goodreads Enlik](https://goodreads.com/enlik)
-
-# I'm playing
-
-- [The Legend of Zelda: Tears of the Kingdom](https://zelda.nintendo.com/tears-of-the-kingdom/) (Nintendo Switch)
-- [Monster Hunter Now](https://monsterhunternow.com/en) (iOS)
 
 # Seek me out
 
