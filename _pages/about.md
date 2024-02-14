@@ -25,18 +25,18 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 ## Character
 
-- Reading [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.goodreads.com/author/show/9761990.William_MacAskill) book by [William MacAskill](https://www.williammacaskill.com/)
+- Reading [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.goodreads.com/book/show/23398748-doing-good-better) book by [William MacAskill](https://www.williammacaskill.com/)
 - Reading [Designing Your Life - How to Build a Well-Lived Joyful Life](https://www.goodreads.com/book/show/61130244-designing-your-life---how-to-build-a-well-lived-joyful-life) book by [Bill Burnett and Dave Evans](https://designingyour.life/about/)
 
 ## Spiritual Life
 
 - [Alpha course](https://www.focuschurch.ee/alpha) - *explore life, faith, and meaning*
-- [The Remarkable Bible](https://remarkablebible.com/) - personal digital study bible, digital journal and daily guide to reading through the Old and New Testaments in one year
-- [Follow](https://www.goodreads.com/book/show/30297580-follow) - develop seven essential attributes of being disciple and sharing my journey with a spiritual coach, to learn how to become a fully devoted follower of Jesus
+- [The Remarkable Bible](https://remarkablebible.com/) - *personal digital study bible, digital journal and daily guide to reading through the Old and New Testaments in one year*
+- [Follow](https://www.goodreads.com/book/show/30297580-follow) - *develop seven essential attributes of being disciple and sharing my journey with a spiritual coach, to learn how to become a fully devoted follower of Jesus Christ*
 
 ## Social Life
 
-- [Couchsurfing](https://www.couchsurfing.com/people/enlik) - *I'm hosting guests from various backround in Tallinn, Estonia and meet locals and expats outside of Estonia, to share life perspective and experiences while having fun exploring new places*
+- [Couchsurfing](https://www.couchsurfing.com/people/enlik) - *Meet and stay with locals all over the world, made a genuine human connection with new people while having fun exploring new places*
 - [Lunchclub](https://lunchclub.com/) - *AI superconnector that makes introductions for 1:1 video meetings to advance your career.*
 - [Mindvalley Estonia](https://meetup.mindvalley.com/estonia/) - *Local Mindvalley community for engaging conversations, meaningful connections, and leave you feeling empowered and inspired*
 
