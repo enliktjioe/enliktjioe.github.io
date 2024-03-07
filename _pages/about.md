@@ -11,12 +11,18 @@ redirect_from:
 Hi! My name is Enlik Tjioe (Lee). 👋
 A lifelong learner who wants to improve the quality of people's lives using data and technology. Currently have big interests in the field of climate and green technology. Work experiences in game development, software engineering, and data engineering.
 
-# **Latest Works - February 2024**
+# **Latest Activities - February 2024**
 
 - [Bro Ko Lee Podcast] [S02E01 Camino Stories - Insights from the Walking Pilgrimage feat. Katja](https://podcasters.spotify.com/pod/show/enlik/episodes/S02E01-Camino-Stories---Insights-from-the-Walking-Pilgrimage-feat--Katja-e2fs6ap) - *Discuss our personal experiences on the Camino, emphasizing the importance of mental preparation and flexibility, as well as the significance of slowing down and self-reflection. (in English)*
-- [Medium Blog] [Come as Stranger, Stay as Family — Sebuah Cerita dari CHOICE Bandung](https://enliktjioe.medium.com/come-as-stranger-stay-as-family-sebuah-cerita-dari-choice-bandung-5042babc0e42) - *my personal story having a new family in Bandung, Indonesia (written in Indonesian)*
+- [Decentralize Your Future: A Hands-On Exploration of DeFi](https://enliktjioe.medium.com/decentralize-your-future-a-hands-on-exploration-of-defi-bff544f3441e) - My final writing project for [DeFi Talents Program](https://web3-talents.io/defi-talents/) (Cohort 5) organized by the Frankfurt School Blockchain Center, exploring how DeFi can potentially transform the way we interact with money.
+- [AI Safety Indonesia](https://medium.com/ai-safety-indonesia) - Made a collection of articles via Medium.com related to AI Safety to increase the awareness of this issue especially for Indonesian society (*written in Indonesian language*)
 
 # **What I'm up to**
+
+## Exploration
+
+- 01 April - 30 June 2024, Digital Nomad Life exploring UK and EU countries, mainly for exploring climate/green technology communities and conferences.
+- 27 April - 12 May 2024, two-weeks vacation in Japan (mainly in Tokyo and Osaka). Planning to [Kumano Kodo Japanese Pilgrimage](https://www.kumano-travel.com/en)
 
 ## Health and Fitness
 
@@ -35,9 +41,9 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 ## Spiritual Life
 
+- [Follow](https://www.goodreads.com/book/show/30297580-follow) - *develop seven essential attributes of being disciple and sharing my journey with a spiritual coach, to learn how to become a fully devoted follower of Jesus Christ*
 - [Alpha course](https://www.focuschurch.ee/alpha) - *explore life, faith, and meaning*
 - [The Remarkable Bible](https://remarkablebible.com/) - *personal digital study bible, digital journal and daily guide to reading through the Old and New Testaments in one year*
-- [Follow](https://www.goodreads.com/book/show/30297580-follow) - *develop seven essential attributes of being disciple and sharing my journey with a spiritual coach, to learn how to become a fully devoted follower of Jesus Christ*
 
 ## Social Life
 
