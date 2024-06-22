@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Enlik Tjioe (Lee). 👋
+Hi! My name is Enlik Lee. 👋
 A lifelong learner who wants to improve the quality of people's lives using data and technology. Currently have big interests in the field of climate and green technology. Work experiences in game development, software engineering, and data engineering.
 
 # **Latest Activities - June 2024**

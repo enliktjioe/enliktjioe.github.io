@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Enlik Homepage"
 title_separator          : "-"
-name                     : &name "Enlik Tjioe"
+name                     : &name "Enlik Lee"
 description              : &description "Improving the quality of people's lives using data and technology"
 url                      : https://enliktjioe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ google_analytics: "G-XBS32XNBQN"
 
 # Site Author
 author:
-  name             : "Enlik Tjioe"
+  name             : "Enlik Lee"
   avatar           : "profile.jpg"
   bio              : "Improving the quality of people's lives using data and technology"
   location         : "Tallinn, Estonia"
