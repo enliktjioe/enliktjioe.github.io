@@ -11,18 +11,21 @@ redirect_from:
 Hi! My name is Enlik Tjioe (Lee). 👋
 A lifelong learner who wants to improve the quality of people's lives using data and technology. Currently have big interests in the field of climate and green technology. Work experiences in game development, software engineering, and data engineering.
 
-# **Latest Activities - February 2024**
+# **Latest Activities - June 2024**
 
-- [Bro Ko Lee Podcast] [S02E01 Camino Stories - Insights from the Walking Pilgrimage feat. Katja](https://podcasters.spotify.com/pod/show/enlik/episodes/S02E01-Camino-Stories---Insights-from-the-Walking-Pilgrimage-feat--Katja-e2fs6ap) - *Discuss our personal experiences on the Camino, emphasizing the importance of mental preparation and flexibility, as well as the significance of slowing down and self-reflection. (in English)*
-- [Decentralize Your Future: A Hands-On Exploration of DeFi](https://enliktjioe.medium.com/decentralize-your-future-a-hands-on-exploration-of-defi-bff544f3441e) - My final writing project for [DeFi Talents Program](https://web3-talents.io/defi-talents/) (Cohort 5) organized by the Frankfurt School Blockchain Center, exploring how DeFi can potentially transform the way we interact with money.
-- [AI Safety Indonesia](https://medium.com/ai-safety-indonesia) - Made a collection of articles via Medium.com related to AI Safety to increase the awareness of this issue especially for Indonesian society (*written in Indonesian language*)
+## Exploration - Nomad - Mindfulness 
+
+- 01 April - 30 June 2024, Digital Nomad Life exploring UK and EU countries, mainly for exploring climate/green technology communities and conferences, future career paths, and digital nomad way of living. Also making new connections through [Couchsurfing](https://www.couchsurfing.com/), hostel, and some local meetup/events.
+- 23-30 June 2024, [Bansko Nomad Festival](https://www.banskonomadfest.com/) in one of Europe digital nomad hotspot, Bansko, Bulgaria - *brings together digital nomads, entrepreneurs and industry leaders in a way that maximises connection, collaboration and interaction.*
+- 01-21 July 2024, [Mindvalley University 2024](https://www.mindvalley.com/u) in Tallinn, Estonia - *discover a new city, new experiences and make friendships that last a lifetime*
+
+## Bro Ko Lee Podcast
+
+- [S02E03 Journeying Across the Globe as a Japanese Nomad feat. Yuki and Ann](https://open.spotify.com/episode/43BTSFhlIeE40BVKDeeYnE) - *Two Japanese friends, Yuki Matsu and Yuki Nakai (Ann) inspired me to explore the world, living in a nomadic way.*
+- [S02E02 Harapan dan Sukacita dari WYD Lisbon 2023 feat. Willem Turpijn](https://open.spotify.com/episode/2fmprh0f77YLsoADODnhlV) - *sharing about World Youth Day (WYD) Lisbon 2023 experience with one of the pilgrim friends from Indonesian (in Indonesian language)*
+- [S02E01 Camino Stories - Insights from the Walking Pilgrimage feat. Katja](https://podcasters.spotify.com/pod/show/enlik/episodes/S02E01-Camino-Stories---Insights-from-the-Walking-Pilgrimage-feat--Katja-e2fs6ap) - *Discuss our personal experiences on the Camino, emphasizing the importance of mental preparation and flexibility, as well as the significance of slowing down and self-reflection. (in English)*
 
 # **What I'm up to**
-
-## Exploration
-
-- 01 April - 30 June 2024, Digital Nomad Life exploring UK and EU countries, mainly for exploring climate/green technology communities and conferences.
-- 27 April - 12 May 2024, two-weeks vacation in Japan (mainly in Tokyo and Osaka). Planning to [Kumano Kodo Japanese Pilgrimage](https://www.kumano-travel.com/en)
 
 ## Health and Fitness
 
@@ -36,11 +39,13 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 ## Character
 
+- Reading [No More Mr. Nice Guy](https://www.goodreads.com/book/show/97642.No_More_Mr_Nice_Guy) book by [Dr. Robert Glover](https://www.drglover.com/)
 - Reading [Doing Good Better: How Effective Altruism Can Help You Make a Difference](https://www.goodreads.com/book/show/23398748-doing-good-better) book by [William MacAskill](https://www.williammacaskill.com/)
 - Reading [Designing Your Life - How to Build a Well-Lived Joyful Life](https://www.goodreads.com/book/show/61130244-designing-your-life---how-to-build-a-well-lived-joyful-life) book by [Bill Burnett and Dave Evans](https://designingyour.life/about/)
 
 ## Spiritual Life
 
+- [Kumano Kodo Japanese Pilgrimage ](https://www.kumano-travel.com/en)- *Japanese ancient pilgrimage in Wakayama prefecture. I did Nakahechi route in around 4 days. Wrote my itinerary [here](https://enliktjioe.medium.com/kumano-kodo-nakahechi-route-itinerary-april-to-may-2024-a2e6d71cc97b) and personal experience in Indonesian language [here](https://enliktjioe.medium.com/pengalaman-ziarah-jalan-kaki-kumano-kodo-di-wakayama-jepang-937023769eb0)*
 - [Follow](https://www.goodreads.com/book/show/30297580-follow) - *develop seven essential attributes of being disciple and sharing my journey with a spiritual coach, to learn how to become a fully devoted follower of Jesus Christ*
 - [Alpha course](https://www.focuschurch.ee/alpha) - *explore life, faith, and meaning*
 - [The Remarkable Bible](https://remarkablebible.com/) - *personal digital study bible, digital journal and daily guide to reading through the Old and New Testaments in one year*
@@ -78,7 +83,9 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 # I've written
 
-- [Berlin — Kota Hijau Penuh Sejarah](https://enliktjioe.medium.com/berlin-kota-hijau-penuh-sejarah-23d608a7dd83) - *My traveling story in Berlin, written in Indonesian language* 
+- [Pengalaman Ziarah Jalan Kaki Kumano Kodo di Wakayama Jepang](https://enliktjioe.medium.com/pengalaman-ziarah-jalan-kaki-kumano-kodo-di-wakayama-jepang-937023769eb0) - *my personal insights about the Japanese sister pilgrimage of Camino de Santiago in Spain, Kumano Kodo in Wakayama prefecture, Japan (written in Indonesian language)*
+- [Decentralize Your Future: A Hands-On Exploration of DeFi](https://enliktjioe.medium.com/decentralize-your-future-a-hands-on-exploration-of-defi-bff544f3441e) - *My final writing project for [DeFi Talents Program](https://web3-talents.io/defi-talents/) (Cohort 5) organized by the Frankfurt School Blockchain Center, exploring how DeFi can potentially transform the way we interact with money.*
+- [AI Safety Indonesia](https://medium.com/ai-safety-indonesia) - *Made a collection of articles via Medium.com related to AI Safety to increase the awareness of this issue especially for Indonesian society (written in Indonesian language)*
 - [WYD Lisbon 2023 — Sukacita Dalam Kebersamaan](https://enliktjioe.medium.com/wyd-lisbon-2023-sukacita-dalam-kebersamaan-b3e4fb0bc3ed) - *My journaling and reflection based on my experiences through World Youth Day Lisbon 2023, written in Indonesian language*
 - [Quick Reflection — My First Camino de Santiago](https://enliktjioe.medium.com/quick-reflection-my-first-camino-de-santiago-3587e8978109) - *My first 5-days camino experience in Spain, walking as a pilgrim from Sarria to Santiago de Compostela in Spain, in total around 110km*
 - [Short Reflection —My Exodus 90 Journey](https://enliktjioe.medium.com/short-reflection-my-exodus-90-journey-18ce3a840abe) - *90-day spiritual exercise for men based on three pillars: prayer, asceticism, and fraternity*
@@ -86,7 +93,7 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 # I'm interested in
 
-Climate / Green Technologies, Sustainability, Traveling, Video Games, Entrepreneurship, Social Impact, Fitness, Education, Spirituality, Mindfulness
+*Climate / Green Technologies, Sustainability, Traveling, Video Games, Entrepreneurship, Social Impact, Fitness, Education, Spirituality, Mindfulness, Nomad Life,*
 
 # I've been involved with
 
