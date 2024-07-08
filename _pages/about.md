@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 Hi! My name is Enlik Lee. 👋
-A lifelong learner who wants to improve the quality of people's lives using data and technology. Currently have big interests in the field of climate and green technology. Work experiences in game development, software engineering, and data engineering.
+I'm a lifelong learner who wants to improve the quality of people's lives using data and technology. Love traveling, spirituality, and mindfulness activities. Currently have big interests in the field of climate and green technology. Work experiences in game development, software engineering, and data engineering. I like to meet new people and learn from them.
 
-# **Latest Activities - June 2024**
+# **Latest Activities - July 2024**
+
+- [Why I Love Japan So Much?](https://enliktjioe.medium.com/mengapa-saya-begitu-mencintai-jepang-d34f6c21b2e6) - *writing my personal stories about latest trip to Japan, 28 April - 12 May 2024 (written in Bahasa Indonesia)*
+- [EAGxBerlin 2024](https://www.effectivealtruism.org/ea-global/events/eagxberlin-2024) - *Connect with similar people inspired by the Effective Altruism (EA) movement at the three-day conference in central Berlin. Network with people with similar interests or career paths, dive into problem areas and solutions, meet old and new friends. (13-15 Sep 2024)*
 
 ## Exploration - Nomad - Mindfulness 
 
@@ -25,17 +28,19 @@ A lifelong learner who wants to improve the quality of people's lives using data
 - [S02E02 Harapan dan Sukacita dari WYD Lisbon 2023 feat. Willem Turpijn](https://open.spotify.com/episode/2fmprh0f77YLsoADODnhlV) - *sharing about World Youth Day (WYD) Lisbon 2023 experience with one of the pilgrim friends from Indonesian (in Indonesian language)*
 - [S02E01 Camino Stories - Insights from the Walking Pilgrimage feat. Katja](https://podcasters.spotify.com/pod/show/enlik/episodes/S02E01-Camino-Stories---Insights-from-the-Walking-Pilgrimage-feat--Katja-e2fs6ap) - *Discuss our personal experiences on the Camino, emphasizing the importance of mental preparation and flexibility, as well as the significance of slowing down and self-reflection. (in English)*
 
-# **What I'm up to**
+# **Getting know more about me**
 
 ## Health and Fitness
 
 - [WILDFIT 90](https://getwildfit.com/get-started/) - *90-days transformative program for sustainable health and lifestyle transformation*
+- [10X Fitness](https://blog.mindvalley.com/an-introduction-to-10x/) - *A Permanent Body Transformation In Just Two 15-Minute Workouts A Week*
 
-## Intellectual Life (AI and Data Science)
+## Intellectual Life (Lifelong Learner)
 
-- [The Introductory Effective Altruism (EA) Program](https://www.effectivealtruism.org/virtual-programs/introductory-program) - *Learn the key ideas of EA with a small group of like-minded people.*
-- [DeFi Bootcamp](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - *Empowering Talent for Leadership in the Decentralized Finance Space*
-- [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field*
+- [Digital Media (MSc study) at the Universty of Bremen, Germany](https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/22) - *Computer science meets design, and engineering interconnects with the arts (starting from October 2024)*
+- [The Introductory Effective Altruism (EA) Program](https://www.effectivealtruism.org/virtual-programs/introductory-program) - *Learn the key ideas of EA with a small group of like-minded people (Jan - March 2024)*
+- [DeFi Bootcamp](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - *Empowering Talent for Leadership in the Decentralized Finance Space (Oct 2023 - Feb 2024)* 
+- [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field (Sep-Dec 2023)*
 
 ## Character
 
@@ -93,7 +98,7 @@ A lifelong learner who wants to improve the quality of people's lives using data
 
 # I'm interested in
 
-*Climate / Green Technologies, Sustainability, Traveling, Video Games, Entrepreneurship, Social Impact, Fitness, Education, Spirituality, Mindfulness, Nomad Life,*
+*Climate / Green Technologies, Sustainability, Traveling, Video Games, Entrepreneurship, Social Impact, Fitness, Education, Spirituality, Mindfulness, Nomad Life, Digital Media, Altruism*
 
 # I've been involved with
 
