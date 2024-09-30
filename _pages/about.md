@@ -11,12 +11,15 @@ redirect_from:
 Hi! My name is Enlik Lee. 👋
 I'm a lifelong learner who wants to improve the quality of people's lives using data and technology. Love traveling, spirituality, and mindfulness activities. Currently have big interests in the field of climate and green technology. Work experiences in game development, software engineering, and data engineering. I like to meet new people and learn from them.
 
-# **Latest Activities - July 2024**
+# **Latest Activities - Oct 2024**
 
-- [Why I Love Japan So Much?](https://enliktjioe.medium.com/mengapa-saya-begitu-mencintai-jepang-d34f6c21b2e6) - *writing my personal stories about latest trip to Japan, 28 April - 12 May 2024 (written in Bahasa Indonesia)*
+- [Digital Media (MSc study) at the Universty of Bremen, Germany](https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/22) - *As a lifelong learning, I decided to study again and moved from Estonia to Germany from late Sep 2024. Digital Media program is a computer science meets design, and engineering interconnects with the arts, which starting in Oct 2024*
 - [EAGxBerlin 2024](https://www.effectivealtruism.org/ea-global/events/eagxberlin-2024) - *Connect with similar people inspired by the Effective Altruism (EA) movement at the three-day conference in central Berlin. Network with people with similar interests or career paths, dive into problem areas and solutions, meet old and new friends. (13-15 Sep 2024)*
+- [Why I Love Japan So Much?](https://enliktjioe.medium.com/mengapa-saya-begitu-mencintai-jepang-d34f6c21b2e6) - *wrote my personal stories about latest trip to Japan, 28 April - 12 May 2024 (written in Bahasa Indonesia)*
 
-## Exploration - Nomad - Mindfulness 
+
+
+## Exploration - Nomad - Mindfulness  (April)
 
 - 01 April - 30 June 2024, Digital Nomad Life exploring UK and EU countries, mainly for exploring climate/green technology communities and conferences, future career paths, and digital nomad way of living. Also making new connections through [Couchsurfing](https://www.couchsurfing.com/), hostel, and some local meetup/events.
 - 23-30 June 2024, [Bansko Nomad Festival](https://www.banskonomadfest.com/) in one of Europe digital nomad hotspot, Bansko, Bulgaria - *brings together digital nomads, entrepreneurs and industry leaders in a way that maximises connection, collaboration and interaction.*
@@ -37,7 +40,6 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 ## Intellectual Life (Lifelong Learner)
 
-- [Digital Media (MSc study) at the Universty of Bremen, Germany](https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/22) - *Computer science meets design, and engineering interconnects with the arts (starting from October 2024)*
 - [The Introductory Effective Altruism (EA) Program](https://www.effectivealtruism.org/virtual-programs/introductory-program) - *Learn the key ideas of EA with a small group of like-minded people (Jan - March 2024)*
 - [DeFi Bootcamp](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - *Empowering Talent for Leadership in the Decentralized Finance Space (Oct 2023 - Feb 2024)* 
 - [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field (Sep-Dec 2023)*
@@ -70,6 +72,7 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 ## Career
 
+- Learning how to improve my career path via [career guide from 80,000 Hours](https://80000hours.org/career-guide/)
 - Database Developer at [Playtech Estonia](https://playtech.ee/) - *Supporting the existing database system and evaluating/testing new technologies*
 - Becoming a mentor for colleague
 
