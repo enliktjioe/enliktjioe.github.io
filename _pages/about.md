@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! My name is Enlik Lee. 👋
-I'm a lifelong learner who wants to improve the quality of people's lives using data and technology. Love traveling, spirituality, and mindfulness activities. Currently have big interests in the field of climate and green technology. Work experiences in game development, software engineering, and data engineering. I like to meet new people and learn from them.
+I'm a lifelong learner who wants to improve the quality of people's lives using technology and authentic human connection. Love traveling, spirituality, and mindfulness activities. Currently have big interests in the field of climate and green technology. Work experiences in game development, software engineering, and data engineering. I like to meet new people and learn from them.
 
 # **Latest Activities - Oct 2024**
 
