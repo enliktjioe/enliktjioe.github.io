@@ -11,11 +11,13 @@ redirect_from:
 Hi! My name is Enlik Lee. 👋
 I'm a lifelong learner who wants to improve the quality of people's lives using technology and authentic human connection. Love traveling, spirituality, and mindfulness activities. Currently have big interests in the field of climate change in combination with game technology. Work experiences in game development, software engineering, and data engineering. I like to meet new people and learn from them.
 
-# **Latest Activities - Oct 2024**
+# **Latest Activities - Jan 2025**
 
-- [Digital Media (MSc study) at the Universty of Bremen, Germany](https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/22) - *As a lifelong learning, I decided to study again and moved from Estonia to Germany from late Sep 2024. Digital Media program is a computer science meets design, and engineering interconnects with the arts, which starting in Oct 2024*
-- [EAGxBerlin 2024](https://www.effectivealtruism.org/ea-global/events/eagxberlin-2024) - *Connect with similar people inspired by the Effective Altruism (EA) movement at the three-day conference in central Berlin. Network with people with similar interests or career paths, dive into problem areas and solutions, meet old and new friends. (13-15 Sep 2024)*
-- [Why I Love Japan So Much?](https://enliktjioe.medium.com/mengapa-saya-begitu-mencintai-jepang-d34f6c21b2e6) - *wrote my personal stories about latest trip to Japan, 28 April - 12 May 2024 (written in Bahasa Indonesia)*
+- [Vipassana Retreat in Meppen, Germany](https://dvara.dhamma.org/en/anreise-meppen/)- *10-days retreat with noble-silence, learning [art of living](https://dvara.dhamma.org/en/code/) with mindful life (without technology, writing, reading), focusing on body and mind awareness (27 Dec 2024 - 07 Jan 2025)* 
+- [#30HariBercerita2024 via Threads](https://www.threads.net/search?q=30HariBercerita2024&serp_type=tags&tag_id=18405032245033899&filter=recent) - *My end-of-year personal challenge to write a short story every day during the month December 2024*
+- [Co-Organizer of Effective Altruism Germany Retreat](https://eadretreatberlin2025.my.canva.site/) - *An epic weekend with the EA Germany Community in Berlin, dive into awesome discussions, learn from insightful speakers, and enjoy various social activities to connect with the German EA Community (24-26 Jan 2025)*
+- [IKG Hamburg Volunteer for Christmas Party Celebration](https://www.facebook.com/photo/?fbid=122188769480040823&set=pcb.122188769612040823) - *Helping Indonesian Catholic Community (IKG) in Hamburg for kitchen preparation of food and beverage*
+- Co-Organizer of [Effective Altruism Bremen](https://forum.effectivealtruism.org/groups/toTCXLz6pFh4XCrcx) - *A new EA local group made to bring Effective Altruism movement for people in Bremen, focused on University student* 
 
 
 
@@ -40,7 +42,8 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 ## Intellectual Life (Lifelong Learner)
 
-- [The Introductory Effective Altruism (EA) Program](https://www.effectivealtruism.org/virtual-programs/introductory-program) - *Learn the key ideas of EA with a small group of like-minded people (Jan - March 2024)*
+- [Digital Media (MSc study) at the Universty of Bremen, Germany](https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/22) - *As a lifelong learning, I decided to study again and moved from Estonia to Germany from late Sep 2024. Digital Media program is a computer science meets design, and engineering interconnects with the arts* (Sep 2024 - Aug 2026)
+- [The Introductory Effective Altruism (EA) Program](https://www.effectivealtruism.org/virtual-programs/introductory-program) - *Learn the key ideas of EA with a small group of like-minded people (Jan - Mar 2024)*
 - [DeFi Bootcamp](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - *Empowering Talent for Leadership in the Decentralized Finance Space (Oct 2023 - Feb 2024)* 
 - [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field (Sep-Dec 2023)*
 
@@ -78,6 +81,7 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 ## Quality of life
 
+- [EAGxBerlin 2024](https://www.effectivealtruism.org/ea-global/events/eagxberlin-2024) - *Connect with similar people inspired by the Effective Altruism (EA) movement at the three-day conference in central Berlin. Network with people with similar interests or career paths, dive into problem areas and solutions, meet old and new friends. (13-15 Sep 2024)*
 - Volunteering
   - [Tallinn Black Night Film Festival 2023](https://poff.ee/en/) 3-19 November 2023, Tallinn, Estonia - *one of the biggest film festivals in Northern Europe and the busiest regional industry platforms.*
 - Traveling with purpose
@@ -91,6 +95,7 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 # I've written
 
+- [Why I Love Japan So Much?](https://enliktjioe.medium.com/mengapa-saya-begitu-mencintai-jepang-d34f6c21b2e6) - *wrote my personal stories about latest trip to Japan, 28 April - 12 May 2024 (written in Bahasa Indonesia)*
 - [Pengalaman Ziarah Jalan Kaki Kumano Kodo di Wakayama Jepang](https://enliktjioe.medium.com/pengalaman-ziarah-jalan-kaki-kumano-kodo-di-wakayama-jepang-937023769eb0) - *my personal insights about the Japanese sister pilgrimage of Camino de Santiago in Spain, Kumano Kodo in Wakayama prefecture, Japan (written in Indonesian language)*
 - [Decentralize Your Future: A Hands-On Exploration of DeFi](https://enliktjioe.medium.com/decentralize-your-future-a-hands-on-exploration-of-defi-bff544f3441e) - *My final writing project for [DeFi Talents Program](https://web3-talents.io/defi-talents/) (Cohort 5) organized by the Frankfurt School Blockchain Center, exploring how DeFi can potentially transform the way we interact with money.*
 - [AI Safety Indonesia](https://medium.com/ai-safety-indonesia) - *Made a collection of articles via Medium.com related to AI Safety to increase the awareness of this issue especially for Indonesian society (written in Indonesian language)*
