@@ -43,7 +43,7 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 ## Intellectual Life (Lifelong Learner)
 
-- [Digital Media (MSc study) at the Universty of Bremen, Germany](https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/22) - *As a lifelong learning, I decided to study again and moved from Estonia to Germany from late Sep 2024. Digital Media program is a computer science meets design, and engineering interconnects with the arts* (Sep 2024 - Aug 2026)
+- [Digital Media (MSc study) at the Universty of Bremen, Germany](https://www.uni-bremen.de/en/studies/orientation-application/offered-study-program/dbs/study/22) - *As a lifelong learning, I decided to study again in Germany. I'm taking a Digital Media program which is a computer science meets design, and engineering interconnects with the arts* (from Oct 2024 until 2026)
 - [The Introductory Effective Altruism (EA) Program](https://www.effectivealtruism.org/virtual-programs/introductory-program) - *Learn the key ideas of EA with a small group of like-minded people (Jan - Mar 2024)*
 - [DeFi Bootcamp](https://web3-talents.io/defi-talents) via [Frankfurt School Blockchain Center](https://www.frankfurt-school.de/home/research/centres/blockchain) - *Empowering Talent for Leadership in the Decentralized Finance Space (Oct 2023 - Feb 2024)* 
 - [AI Safety Fundamentals - Aligment Express Course](https://course.aisafetyfundamentals.com/alignment) via [Effective Altruism Estonia](https://www.efektiivnealtruism.org/about) -  *Understanding a range of agendas in AI Alignment and make informed decisions about next steps to engage with the field (Sep-Dec 2023)*
