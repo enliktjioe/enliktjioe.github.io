@@ -13,16 +13,12 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 # **Latest Activities - Jan 2025**
 
-- [Vipassana Retreat in Meppen, Germany](https://dvara.dhamma.org/en/anreise-meppen/)- *10-days retreat with noble-silence, learning [art of living](https://dvara.dhamma.org/en/code/) with mindful life (without technology, writing, reading), focusing on body and mind awareness (27 Dec 2024 - 07 Jan 2025)* 
-- [Awesome Climate Games](https://github.com/enliktjioe/awesome-climate-games) - *Collaboration project with [Xiange Wang](https://www.linkedin.com/in/wangxiange/) that I met through [Work on Climate](https://workonclimate.org/) community as our way of sharing the tools, insights, and resources related to games for climate and sustainability.* 
-- [#30HariBercerita2024 via Threads](https://www.threads.net/search?q=30HariBercerita2024&serp_type=tags&tag_id=18405032245033899&filter=recent) - *My end-of-year personal challenge to write a short story every day during the month December 2024*
-- [Co-Organizer of Effective Altruism Germany Retreat](https://eadretreatberlin2025.my.canva.site/) - *An epic weekend with the EA Germany Community in Berlin, dive into awesome discussions, learn from insightful speakers, and enjoy various social activities to connect with the German EA Community (24-26 Jan 2025)*
-- [IKG Hamburg Volunteer for Christmas Party Celebration](https://www.facebook.com/photo/?fbid=122188769480040823&set=pcb.122188769612040823) - *Helping Indonesian Catholic Community (IKG) in Hamburg for kitchen preparation of food and beverage*
-- Co-Organizer of [Effective Altruism Bremen](https://forum.effectivealtruism.org/groups/toTCXLz6pFh4XCrcx) - *A new EA local group made to bring Effective Altruism movement for people in Bremen, focused on University student* 
+- [My First Vipassana Experiences](https://enliktjioe.medium.com/my-first-vipassana-experiences-af50d0a99e48)- *10-days retreat with noble-silence, learning [art of living](https://dvara.dhamma.org/en/code/) with mindful life (without technology, writing, reading), focusing on body and mind awareness (27 Dec 2024 - 07 Jan 2025)* 
+- [Awesome Climate Games](https://github.com/enliktjioe/awesome-climate-games) - *Collaboration project with [Xiange Wang](https://www.linkedin.com/in/wangxiange/) that I met through [Work on Climate](https://workonclimate.org/) community as our way of sharing the tools, insights, and resources related to games for climate and sustainability.*
 
 
 
-## Exploration - Nomad - Mindfulness  (April)
+## Exploration - Nomad - Mindfulness  (April - June 2024)
 
 - 01 April - 30 June 2024, Digital Nomad Life exploring UK and EU countries, mainly for exploring climate/green technology communities and conferences, future career paths, and digital nomad way of living. Also making new connections through [Couchsurfing](https://www.couchsurfing.com/), hostel, and some local meetup/events.
 - 23-30 June 2024, [Bansko Nomad Festival](https://www.banskonomadfest.com/) in one of Europe digital nomad hotspot, Bansko, Bulgaria - *brings together digital nomads, entrepreneurs and industry leaders in a way that maximises connection, collaboration and interaction.*
@@ -72,7 +68,6 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 - Managing my money budgeting and expense via [Money Lover](https://moneylover.me/)
 - EUR account - automated stock market investment plan via [Trading212](https://www.trading212.com/)
 - IDR account - automated index fund investment plan via [Bibit](https://bibit.id/)
-- AUD account - automated index fund investment plan via [Spaceship Voyager](https://www.spaceship.com.au/)
 
 ## Career
 
@@ -82,6 +77,8 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 ## Quality of life
 
+- [Co-Organizer of Effective Altruism Germany Retreat](https://eadretreatberlin2025.my.canva.site/) - *An epic weekend with the EA Germany Community in Berlin, dive into awesome discussions, learn from insightful speakers, and enjoy various social activities to connect with the German EA Community (24-26 Jan 2025)*
+- [IKG Hamburg Volunteer for Christmas Party Celebration](https://www.facebook.com/photo/?fbid=122188769480040823&set=pcb.122188769612040823) - *Helping Indonesian Catholic Community (IKG) in Hamburg for kitchen preparation of food and beverage
 - [EAGxBerlin 2024](https://www.effectivealtruism.org/ea-global/events/eagxberlin-2024) - *Connect with similar people inspired by the Effective Altruism (EA) movement at the three-day conference in central Berlin. Network with people with similar interests or career paths, dive into problem areas and solutions, meet old and new friends. (13-15 Sep 2024)*
 - Volunteering
   - [Tallinn Black Night Film Festival 2023](https://poff.ee/en/) 3-19 November 2023, Tallinn, Estonia - *one of the biggest film festivals in Northern Europe and the busiest regional industry platforms.*
@@ -96,6 +93,8 @@ I'm a lifelong learner who wants to improve the quality of people's lives using 
 
 # I've written
 
+- [My First Vipassana Experiences](https://enliktjioe.medium.com/my-first-vipassana-experiences-af50d0a99e48) - *sharing my personal experience about 10-days meditation retreat in noble silence from 27 Dec 2024 - 7 Jan 2025*
+- [#30HariBercerita2024 via Threads](https://www.threads.net/search?q=30HariBercerita2024&serp_type=tags&tag_id=18405032245033899&filter=recent) - *My end-of-year personal challenge to write a short story every day during the month December 2024*
 - [Why I Love Japan So Much?](https://enliktjioe.medium.com/mengapa-saya-begitu-mencintai-jepang-d34f6c21b2e6) - *wrote my personal stories about latest trip to Japan, 28 April - 12 May 2024 (written in Bahasa Indonesia)*
 - [Pengalaman Ziarah Jalan Kaki Kumano Kodo di Wakayama Jepang](https://enliktjioe.medium.com/pengalaman-ziarah-jalan-kaki-kumano-kodo-di-wakayama-jepang-937023769eb0) - *my personal insights about the Japanese sister pilgrimage of Camino de Santiago in Spain, Kumano Kodo in Wakayama prefecture, Japan (written in Indonesian language)*
 - [Decentralize Your Future: A Hands-On Exploration of DeFi](https://enliktjioe.medium.com/decentralize-your-future-a-hands-on-exploration-of-defi-bff544f3441e) - *My final writing project for [DeFi Talents Program](https://web3-talents.io/defi-talents/) (Cohort 5) organized by the Frankfurt School Blockchain Center, exploring how DeFi can potentially transform the way we interact with money.*
